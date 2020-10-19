@@ -5,9 +5,8 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3] and my writ
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/Glottologist/Glottologist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glottologist&hide=java,html,css,ruby,javascript&theme=onedark" />
-</a>
+
+![Glottologist's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glottologist&count_private=true&layout=compact&langs_count=10&hide=html,css,javascript,dockerfile&theme=onedark)
 
 
 ![Glottologist's github stats](https://github-readme-stats.vercel.app/api?username=glottologist&show_icons=true&theme=onedark)
