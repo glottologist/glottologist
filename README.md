@@ -15,14 +15,13 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3] and my writ
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon)
-[3.2]: https://raw.githubusercontent.com/Glottologist/Glottologist/master/linkedin-3-16.png (linkedin icon)
-
+[3.2]: https://github.com/glottologist/glottologist/blob/main/linkedin-3-16.png (linkedin icon)
 
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/theglottologist
 [2]: https://github.com/Glottologist
-[3]: https://www.linkedin.com/in/jasonridgway-taylor/
+[3]: https://www.linkedin.com/in/jasonridgwaytaylor/
 [4]: https://medium.com/@glottologist
 
 
