@@ -1,10 +1,9 @@
 
 
-Hi All.  I am a polygot functional programmer, physicist, data scientist, linguist, sometime beekeeper and most importantly, father. @scala @haskell @idris @f# @rust @f*
+Hi All.  I am a polygot functional programmer, physicist, data scientist, linguist, sometime beekeeper and most importantly, father. @scala @haskell @idris @f# @rust @f*.
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3] and my writing, such that is is, at [Medium](https://medium.com/@glottologist).
 
-## &#x1f4c8; GitHub Stats
-
+## GitHub Stats
 
 ![Glottologist's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glottologist&count_private=true&layout=compact&langs_count=10&hide=html,css,javascript,dockerfile&theme=onedark)
 
