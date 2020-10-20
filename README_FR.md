@@ -2,10 +2,11 @@ Salut à tous. Je suis un programmeur fonctionnel polyvalent, un physicien, un i
 Vous pouvez me trouver sur [![Twitter][1.2]][1], ou sur [![LinkedIn][3.2]][3] et mes écrits, tels qu'ils sont, sur [Medium](https://medium.com/@glottologist).
 
 <p align="center">
-  <a href="/README.md">English </a>
+  <a href="/README.md">Anglais</a>
   ·
-  <a href="/README_IT.md">Italiano</a>
+  <a href="/README_NL.md">Néerlandais</a>
   ·
+  <a href="/README_IT.md">Italien</a>
 </p>
 
 

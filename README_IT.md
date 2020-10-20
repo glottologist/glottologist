@@ -3,9 +3,11 @@ enziato dei dati, linguista, qualche volta apicoltore e, soprattutto, padre. @sc
 Potete trovarmi su [![Twitter][1.2]][1], oppure su [![LinkedIn][3.2]][3] e la mia scrittura, cioè su [Medium](https://medium.com/@glottologist).
 
 <p align="center">
- <a href="/README_FR.md">Français </a>
+ <a href="/README_FR.md">Francese</a>
  .
- <a href="/README.md">English</a>
+ <a href="/README.md">Ingles</a>
+ .
+ <a href="/README_NL.md">Olandese</a>
 </p>
 
 
