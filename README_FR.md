@@ -11,10 +11,10 @@ Vous pouvez me trouver sur [![Twitter][1.2]][1], ou sur [![LinkedIn][3.2]][3] et
 
 ## Statistiques GitHub
 
-![Glottologist's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glottologist&count_private=true&layout=compact&langs_count=10&hide=html,css,javascript,dockerfile&theme=onedark)
+![Les langues les plus utilisées par Glottologist](https://github-readme-stats.vercel.app/api/top-langs/?username=glottologist&count_private=true&layout=compact&langs_count=10&hide=html,css,javascript,dockerfile&theme=onedark)
 
 
-![Glottologist's github stats](https://github-readme-stats.vercel.app/api?username=glottologist&show_icons=true&theme=onedark)
+![Les statistiques GitHub de Glottologist](https://github-readme-stats.vercel.app/api?username=glottologist&show_icons=true&theme=onedark)
 
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon)
