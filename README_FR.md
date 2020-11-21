@@ -7,6 +7,8 @@ Vous pouvez me trouver sur [![Twitter][1.2]][1], ou sur [![LinkedIn][3.2]][3] et
   <a href="/README_NL.md">Néerlandais</a>
   ·
   <a href="/README_IT.md">Italien</a>
+  .
+  <a href="/README_SV.md">Suédois</a>
 </p>
 
 

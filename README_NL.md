@@ -8,6 +8,7 @@ Je kunt me vinden op [![Twitter][1.2]][1], of op [![LinkedIn][3.2]][3] en mijn s
   ·
   <a href="/README_IT.md">Italiaans</a>
   ·
+  <a href="/README_SV.md">Zweedse</a>
 </p>
 
 
