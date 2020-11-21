@@ -25,7 +25,7 @@ Du hittar mig på [![Twitter][1.2]][1], eller på [![LinkedIn][3.2]][3] och mitt
 [2.2]: http://i.imgur.com/9I6NRUm.png (github-ikon)
 [3.2]: https://github.com/glottologist/glottologist/blob/main/linkedin-3-16.png (linkedin-ikon)
 
-<! - länkar till dina sociala mediekonton ->
+<!- länkar till dina sociala mediekonton ->
 
 [1]: https://twitter.com/theglottologist
 [2]: https://github.com/Glottologist
