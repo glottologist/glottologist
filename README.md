@@ -7,8 +7,6 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3] and my writ
   <a href="/README_FR.md">French</a>
   ·
   <a href="/README_IT.md">Italian</a>
-  ·
-  <a href="/README_NL.md">Dutch</a>
   .
   <a href="/README_SV.md">Swedish</a>
 </p>
