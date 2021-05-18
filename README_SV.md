@@ -6,8 +6,6 @@ Du hittar mig på [![Twitter][1.2]][1], eller på [![LinkedIn][3.2]][3] och mitt
   .
   <a href="/README_FR.md"> Franska </a>
   ·
-  <a href="/README_NL.md"> Nederländska </a>
-  ·
   <a href="/README_IT.md"> Italienska </a>
 
 </p>
