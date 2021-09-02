@@ -1,3 +1,5 @@
+# Om mig
+
 Hej alla. Jag är en mångsidig funktionell programmerare, en fysiker, en datavetare, en lingvist, ibland en biodlare och framför allt en far. @scala @haskell @idris @ f # @rust @ f *.
 Du hittar mig på [![Twitter][1.2]][1], eller på [![LinkedIn][3.2]][3] och mitt skrivande, som det är, på [Medium] (https://medium.com/@glottologist).
 
@@ -7,7 +9,8 @@ Du hittar mig på [![Twitter][1.2]][1], eller på [![LinkedIn][3.2]][3] och mitt
   <a href="/README_FR.md"> Franska </a>
   ·
   <a href="/README_IT.md"> Italienska </a>
-
+  ·
+  <a href="/README_PT.md"> Portugisiska </a>
 </p>
 
 
