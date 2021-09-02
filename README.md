@@ -1,7 +1,7 @@
 # About Me
 
 Hi All.  I am a polygot functional programmer, physicist, data scientist, linguist, sometime beekeeper and most importantly, father. @scala @haskell @idris @f# @rust @f*.
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3] and my writing, such that importantly is, at [Medium](https://medium.com/@glottologist).
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3] and my writing, such that it is, at [Medium](https://medium.com/@glottologist).
 
 <p align="center">
   <a href="/README_FR.md">French</a>
@@ -22,7 +22,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3] and my writ
 ![Glottologist's github stats](https://github-readme-stats.vercel.app/api?username=glottologist&show_icons=true&theme=onedark)
 
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon)
+[1.2]: https://imgur.com/LS08Auh (twitter icon)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon)
 [3.2]: https://github.com/glottologist/glottologist/blob/main/linkedin-3-16.png (linkedin icon)
 
