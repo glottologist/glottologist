@@ -15,10 +15,10 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3] and my writ
 
 
 ## GitHub Stats
-
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glottologist&count_private=true&layout=compact&langs_count=10&hide=html,css,javascript,dockerfile&theme=onedark" />
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=glottologist&show_icons=true&theme=onedark" />
-
+<p>
+<img width="48%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glottologist&count_private=true&layout=compact&langs_count=10&hide=html,css,javascript,dockerfile&theme=onedark" />
+<img width="48%" align="right" src="https://github-readme-stats.vercel.app/api?username=glottologist&show_icons=true&theme=onedark" />
+</p>
 
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon)
