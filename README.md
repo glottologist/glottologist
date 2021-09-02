@@ -1,4 +1,4 @@
-
+# About Me
 
 Hi All.  I am a polygot functional programmer, physicist, data scientist, linguist, sometime beekeeper and most importantly, father. @scala @haskell @idris @f# @rust @f*.
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3] and my writing, such that importantly is, at [Medium](https://medium.com/@glottologist).
@@ -9,6 +9,8 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3] and my writ
   <a href="/README_IT.md">Italian</a>
   .
   <a href="/README_SV.md">Swedish</a>
+  .
+  <a href="/README_PT.md">Portuguese</a>
 </p>
 
 
