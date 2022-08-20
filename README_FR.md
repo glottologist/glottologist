@@ -1,12 +1,10 @@
-Salut à tous. Je suis un programmeur fonctionnel polyvalent, un physicien, un informaticien, un linguiste, parfois un apiculteur et surtout, un père. @scala @haskell @idris @f# @rust @f*.
+Salut à tous. Je suis un programmeur fonctionnel polyvalent, un physicien, un informaticien, un linguiste, parfois un apiculteur et surtout, un père. @scala @haskell @idris @f# @rust @f* @ocaml.
 Vous pouvez me trouver sur [![Twitter][1.2]][1], ou sur [![LinkedIn][3.2]][3] et mes écrits, tels qu'ils sont, sur [Medium](https://medium.com/@glottologist).
 
 <p align="center">
   <a href="/README.md">Anglais</a>
   ·
   <a href="/README_IT.md">Italien</a>
-  .
-  <a href="/README_SV.md">Suédois</a>
   .
   <a href="/README_PT.md">Portugais</a>
 </p>

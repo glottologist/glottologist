@@ -1,6 +1,6 @@
 # Sobre Mim
 
-Olá a todos.  Sou um programador funcional poliglota, físico, cientista de dados, linguista, algum dia apicultor e, o mais importante, pai. @scala @haskell @idris @f# @rust @f*.
+Olá a todos.  Sou um programador funcional poliglota, físico, cientista de dados, linguista, algum dia apicultor e, o mais importante, pai. @scala @haskell @idris @f# @rust @f* @ocaml.
 Podem encontrar-me em [![Twitter][1.2]][1], ou em [![LinkedIn][3.2]][3] e a minha escrita, de tal forma que o mais importante é, em [Medium](https://medium.com/@glottologist).
 
 <p align="center">
@@ -8,9 +8,7 @@ Podem encontrar-me em [![Twitter][1.2]][1], ou em [![LinkedIn][3.2]][3] e a minh
   ·
   <a href="/README_IT.md">Italiano</a>
   .
-  <a href="/README_SV.md">Sueco</a>
-  .
-  <a href="/README_PT.md">Português</a>
+  <a href="/README.md">Inglês</a>
 </p>
 
 
